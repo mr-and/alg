@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title | Solution                                                                               | Difficulty |
 |-----| ----- |----------------------------------------------------------------------------------------| ---------- |
+| 6 |[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)| [Java](./java/src/problem6/BuildArrayFromPermutation.java)|Easy|
 | 5 |[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| [Java](./java/src/problem5/ConcatenationOfArray.java)|Easy|
 | 4 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)| [Java](./java/src/problem4/AddTwoNumbers.java)|Medium|
 | 3 |[MinNum of Deci-Binary Numbers](https://leetcode.com/problems/palindrome-number)| [Java](./java/src/problem3/MinNumDeciBinaryNum.java)|Medium|

@@ -1,5 +1,3 @@
-package problem5;
-
 /**********************************************************************************
  *
  * Given an integer array nums of length n, you want to create
@@ -8,6 +6,9 @@ package problem5;
  * Specifically, ans is the concatenation of two nums arrays.
  *
  **********************************************************************************/
+
+package problem5;
+
 
 public class ConcatenationOfArray {
     public int[] getConcatenation(int[] nums) {
