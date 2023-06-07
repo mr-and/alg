@@ -7,7 +7,7 @@
  *
  **********************************************************************************/
 
-package palindromeNumber;
+package problem2;
 
 public class PalindromeNumber {
 

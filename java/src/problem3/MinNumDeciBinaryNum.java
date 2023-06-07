@@ -7,7 +7,7 @@
  *
  **********************************************************************************/
 
-package minNumberOfDeciBinaryNumbers;
+package problem3;
 
 public class MinNumDeciBinaryNum {
 

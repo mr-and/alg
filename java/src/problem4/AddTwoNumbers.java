@@ -6,7 +6,7 @@
  *
  **********************************************************************************/
 
-package addTwoNumbers;
+package problem4;
 
 public class AddTwoNumbers {
 
