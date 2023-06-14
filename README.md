@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title | Solution                                                                               | Difficulty |
 |-----| ----- |----------------------------------------------------------------------------------------| ---------- |
+| 9 |[MaximumDepthOfBinaryTree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](./java/src/problem9/MaximumDepthOfBinaryTree.java)|Easy|
 | 8 |[BinaryTreeInorderTraversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Java](./java/src/problem8/BinaryTreeInorderTraversal.java)|Easy|
 | 7 |[ReverseString](https://leetcode.com/problems/reverse-string/)| [Java](./java/src/problem7/ReverseString.java)|Easy|
 | 6 |[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)| [Java](./java/src/problem6/BuildArrayFromPermutation.java)|Easy|
