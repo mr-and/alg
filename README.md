@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title | Solution                                                                               | Difficulty |
 |-----| ----- |----------------------------------------------------------------------------------------| ---------- |
+| 12 |[SingleNumber](https://leetcode.com/problems/single-number/)| [Java](./java/src/problem12/SingleNumber.java)|Easy|
 | 11 |[PascalsTriangle](https://leetcode.com/problems/pascals-triangle/)| [Java](./java/src/problem11/PascalsTriangle.java)|Easy|
 | 10 |[ReverseLinkedList](https://leetcode.com/problems/reverse-linked-list/)| [Java](./java/src/problem10/ReverseLinkedList.java)|Easy|
 | 9 |[MaximumDepthOfBinaryTree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](./java/src/problem9/MaximumDepthOfBinaryTree.java)|Easy|
