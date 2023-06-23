@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title | Solution                                                                               | Difficulty |
 |-----| ----- |----------------------------------------------------------------------------------------| ---------- |
+| 14 |[InvertBinaryTree](https://leetcode.com/problems/invert-binary-tree/)| [Java](./java/src/problem14/InvertBinaryTree.java)                  |Easy|
 | 13 |[FizzBuzz](https://leetcode.com/problems/fizz-buzz/)| [Java](./java/src/problem13/FizzBuzz.java)|Easy|
 | 12 |[SingleNumber](https://leetcode.com/problems/single-number/)| [Java](./java/src/problem12/SingleNumber.java)|Easy|
 | 11 |[PascalsTriangle](https://leetcode.com/problems/pascals-triangle/)| [Java](./java/src/problem11/PascalsTriangle.java)|Easy|
