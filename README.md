@@ -6,9 +6,10 @@ LeetCode
 
 | #   | Title | Solution                                                                               | Difficulty |
 |-----| ----- |----------------------------------------------------------------------------------------| ---------- |
-| 16 |[ConvertSortedArray](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Java](./java/src/problem16/ConvertSortedArray.java)
-| 15 |[MajorityElement](https://leetcode.com/problems/majority-element/)| [Java](./java/src/problem15/MajorityElement.java)                  |Easy|
-| 14 |[InvertBinaryTree](https://leetcode.com/problems/invert-binary-tree/)| [Java](./java/src/problem14/InvertBinaryTree.java)                  |Easy|
+| 17 |[NumberOf1Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./java/src/problem17/NumberOf1Bits.java)|Easy|
+| 16 |[ConvertSortedArray](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Java](./java/src/problem16/ConvertSortedArray.java)|Easy|
+| 15 |[MajorityElement](https://leetcode.com/problems/majority-element/)| [Java](./java/src/problem15/MajorityElement.java)|Easy|
+| 14 |[InvertBinaryTree](https://leetcode.com/problems/invert-binary-tree/)| [Java](./java/src/problem14/InvertBinaryTree.java)|Easy|
 | 13 |[FizzBuzz](https://leetcode.com/problems/fizz-buzz/)| [Java](./java/src/problem13/FizzBuzz.java)|Easy|
 | 12 |[SingleNumber](https://leetcode.com/problems/single-number/)| [Java](./java/src/problem12/SingleNumber.java)|Easy|
 | 11 |[PascalsTriangle](https://leetcode.com/problems/pascals-triangle/)| [Java](./java/src/problem11/PascalsTriangle.java)|Easy|
