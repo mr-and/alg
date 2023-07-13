@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title | Solution                                                                               | Difficulty |
 |-----| ----- |----------------------------------------------------------------------------------------| ---------- |
+| 21 |[MissingNumber](https://leetcode.com/problems/missing-number/)| [Java](./java/src/problem21/MissingNumber.java)|Easy|
 | 20 |[ValidAnagram](https://leetcode.com/problems/valid-anagram/)| [Java](./java/src/problem20/ValidAnagram.java)|Easy|
 | 19 |[RomanToInteger](https://leetcode.com/problems/roman-to-integer/)| [Java](./java/src/problem19/RomanToInteger.java)|Easy|
 | 18 |[MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./java/src/problem18/MergeTwoSortedLists.java)|Easy|
