@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title | Solution                                                                               | Difficulty |
 |-----| ----- |----------------------------------------------------------------------------------------| ---------- |
+| 23 |[IntersectionOfTwoLinkedLists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [Java](./java/src/problem23/IntersectionOfTwoLinkedLists.java)|Easy|
 | 22 |[DiameterOfBinaryTree](https://leetcode.com/problems/diameter-of-binary-tree/)| [Java](./java/src/problem22/DiameterOfBinaryTree.java)|Easy|
 | 21 |[MissingNumber](https://leetcode.com/problems/missing-number/)| [Java](./java/src/problem21/MissingNumber.java)|Easy|
 | 20 |[ValidAnagram](https://leetcode.com/problems/valid-anagram/)| [Java](./java/src/problem20/ValidAnagram.java)|Easy|
