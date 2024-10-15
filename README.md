@@ -6,6 +6,7 @@ LeetCode
 
 | #  | Title                                                                                           | Solution                                                       | Difficulty |
 |----|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------| ---------- |
+| 27 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                 | [Java](./java/src/problem27/SymmetricTree.java)                |Easy|
 | 26 | [Remove Element](https://leetcode.com/problems/remove-element/)                                 | [Java](./java/src/problem26/RemoveElement.java)                |Easy|
 | 25 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                           | [Java](./java/src/problem25/ValidParentheses.java)             |Easy|
 | 24 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                   | [Java](./java/src/problem24/LongestCommonPrefix.java)          |Easy|
